@@ -2,8 +2,9 @@ nodejs
 maven
 openjdk-8-jdk
 tor
-proxychains-ng
 torsocks
+htop
+
 
 
 # mosquitto
