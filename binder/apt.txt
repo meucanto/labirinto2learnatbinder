@@ -4,7 +4,7 @@ openjdk-8-jdk
 tor
 torsocks
 htop
-
+ffmpeg
 
 
 # mosquitto
